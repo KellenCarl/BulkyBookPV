@@ -1,5 +1,6 @@
 # BulkyBookPV
-Public View
+Public View.
+This repository was created by removing the private credentials and information from my private version of this respository (why there is only one code commit).  
 
 Project currently deployed at: https://kellensbulkybooks.azurewebsites.net/
 
