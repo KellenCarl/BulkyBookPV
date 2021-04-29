@@ -54,8 +54,8 @@ namespace BulkyBook
             });
             services.AddAuthentication().AddGoogle(options =>
             {
-                options.ClientId = "817570785079-avrbsklgnlf7mpsa1rdt2qknjq2uqc53.apps.googleusercontent.com";
-                options.ClientSecret = "IrxcMZP9xvovp3viqtOBRm7n";
+                options.ClientId = "***Redacted***";
+                options.ClientSecret = "***Redacted***"; // This has been cycled.  Value != value in commit histories.
 
             });
             services.AddSession(options =>
