@@ -1,5 +1,4 @@
 # BulkyBookPV
-Public View.  Recently updated to .NET 5 and Stripe integration to v3 now. 
-
+Public View.  Recently updated to .NET 5 and Stripe integration to v3. 
 
 
